@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="EntityFrameworkConnection-Web.config Connection String" description="EntityFrameworkConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=|DataDirectory|\ProjectSQLite.db" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="G:\\身边\\GitHubProject-master\\GitHubProject-master\\Project\.API\\Project\.API\\Project\.API\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EntityFrameworkConnection']/@connectionString" />
+  </parameter>
+  <parameter name="MySqlConnection-Web.config Connection String" description="MySqlConnection Connection String used in web.config by the application to access the database." defaultValue="server=localhost;port=3306;database=myproject;uid=root;password=abc123456" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="G:\\身边\\GitHubProject-master\\GitHubProject-master\\Project\.API\\Project\.API\\Project\.API\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MySqlConnection']/@connectionString" />
+  </parameter>
+</parameters>

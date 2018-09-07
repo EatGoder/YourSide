@@ -1,0 +1,17 @@
+I:\Project.API\Project.API.Data.Models\bin\Debug\Project.API.Data.Models.dll
+I:\Project.API\Project.API.Data.Models\bin\Debug\Project.API.Data.Models.pdb
+I:\Project.API\Project.API.Data.Models\obj\Debug\Project.API.Data.Models.dll
+I:\Project.API\Project.API.Data.Models\obj\Debug\Project.API.Data.Models.pdb
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Debug\Project.API.Data.Models.dll.config
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Debug\Project.API.Data.Models.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Debug\Project.API.Data.Models.pdb
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Debug\EntityFramework.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Debug\EntityFramework.SqlServer.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Debug\EntityFramework.SqlServerCompact.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Debug\System.Data.SqlServerCe.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Debug\EntityFramework.xml
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Debug\EntityFramework.SqlServer.xml
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Debug\EntityFramework.SqlServerCompact.xml
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\obj\Debug\Project.API.Data.Models.csprojResolveAssemblyReference.cache
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\obj\Debug\Project.API.Data.Models.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\obj\Debug\Project.API.Data.Models.pdb

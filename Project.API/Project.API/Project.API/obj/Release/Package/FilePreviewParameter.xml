@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Project" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^G:\\身边\\GitHubProject-master\\GitHubProject-master\\Project\.API\\Project\.API\\Project\.API\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^G:\\身边\\GitHubProject-master\\GitHubProject-master\\Project\.API\\Project\.API\\Project\.API\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Add write permission to App_Data Folder" description="Add write permission to App_Data folder" value="Project/App_Data" tags="Hidden">
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^G:\\身边\\GitHubProject-master\\GitHubProject-master\\Project\.API\\Project\.API\\Project\.API\\obj\\Release\\Package\\PackageTmp\\App_Data$" />
+  </parameter>
+  <parameter name="EntityFrameworkConnection-Web.config Connection String" description="" value="Data Source=|DataDirectory|\ProjectSQLite.db" tags="">
+    <parameterEntry kind="XmlFile" scope="G:\\身边\\GitHubProject-master\\GitHubProject-master\\Project\.API\\Project\.API\\Project\.API\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EntityFrameworkConnection']/@connectionString" />
+  </parameter>
+  <parameter name="MySqlConnection-Web.config Connection String" description="" value="server=localhost;port=3306;database=myproject;uid=root;password=abc123456" tags="">
+    <parameterEntry kind="XmlFile" scope="G:\\身边\\GitHubProject-master\\GitHubProject-master\\Project\.API\\Project\.API\\Project\.API\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MySqlConnection']/@connectionString" />
+  </parameter>
+</parameters>

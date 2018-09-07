@@ -1,0 +1,17 @@
+I:\Project.API\Project.API.Common\bin\Debug\Project.API.Common.dll
+I:\Project.API\Project.API.Common\bin\Debug\Project.API.Common.pdb
+I:\Project.API\Project.API.Common\obj\Debug\Project.API.Common.dll
+I:\Project.API\Project.API.Common\obj\Debug\Project.API.Common.pdb
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Common\bin\Debug\Project.API.Common.dll.config
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Common\bin\Debug\Project.API.Common.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Common\bin\Debug\Project.API.Common.pdb
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Common\bin\Debug\EntityFramework.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Common\bin\Debug\EntityFramework.SqlServer.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Common\bin\Debug\EntityFramework.SqlServerCompact.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Common\bin\Debug\System.Data.SqlServerCe.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Common\bin\Debug\EntityFramework.xml
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Common\bin\Debug\EntityFramework.SqlServer.xml
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Common\bin\Debug\EntityFramework.SqlServerCompact.xml
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Common\obj\Debug\Project.API.Common.csprojResolveAssemblyReference.cache
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Common\obj\Debug\Project.API.Common.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Common\obj\Debug\Project.API.Common.pdb

@@ -1,0 +1,13 @@
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Release\Project.API.Data.Models.dll.config
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Release\Project.API.Data.Models.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Release\Project.API.Data.Models.pdb
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Release\EntityFramework.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Release\EntityFramework.SqlServer.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Release\EntityFramework.SqlServerCompact.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Release\System.Data.SqlServerCe.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Release\EntityFramework.xml
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Release\EntityFramework.SqlServer.xml
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\bin\Release\EntityFramework.SqlServerCompact.xml
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\obj\Release\Project.API.Data.Models.csprojResolveAssemblyReference.cache
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\obj\Release\Project.API.Data.Models.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.Data.Models\obj\Release\Project.API.Data.Models.pdb

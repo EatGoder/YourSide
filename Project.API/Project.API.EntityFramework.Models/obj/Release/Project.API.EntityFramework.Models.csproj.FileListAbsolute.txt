@@ -1,0 +1,13 @@
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.EntityFramework.Models\bin\Release\Project.API.EntityFramework.Models.dll.config
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.EntityFramework.Models\bin\Release\Project.API.EntityFramework.Models.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.EntityFramework.Models\bin\Release\Project.API.EntityFramework.Models.pdb
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.EntityFramework.Models\bin\Release\EntityFramework.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.EntityFramework.Models\bin\Release\EntityFramework.SqlServer.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.EntityFramework.Models\bin\Release\EntityFramework.SqlServerCompact.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.EntityFramework.Models\bin\Release\System.Data.SqlServerCe.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.EntityFramework.Models\bin\Release\EntityFramework.xml
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.EntityFramework.Models\bin\Release\EntityFramework.SqlServer.xml
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.EntityFramework.Models\bin\Release\EntityFramework.SqlServerCompact.xml
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.EntityFramework.Models\obj\Release\Project.API.EntityFramework.Models.csprojResolveAssemblyReference.cache
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.EntityFramework.Models\obj\Release\Project.API.EntityFramework.Models.dll
+G:\身边\GitHubProject-master\GitHubProject-master\Project.API\Project.API.EntityFramework.Models\obj\Release\Project.API.EntityFramework.Models.pdb
